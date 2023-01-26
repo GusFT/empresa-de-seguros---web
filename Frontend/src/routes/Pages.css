@@ -1,0 +1,16 @@
+.Pages-container{
+    margin: 9rem 6rem;
+    text-align: start;
+    margin-bottom: -2;
+}
+
+.Pages-container h1{
+    padding-bottom: 1rem;
+}
+
+@media screen and (max-width: 850px){
+    .Pages-container{
+        margin: 9rem 3rem;
+        
+    }
+}
